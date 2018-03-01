@@ -30,7 +30,7 @@ import cn.comment.service.MemberService;
 import cn.comment.service.OrdersService;
 import cn.comment.util.CommonUtil;
 
-@RestController
+@RestController 
 @RequestMapping("/api")
 public class ApiController {
 	@Autowired
